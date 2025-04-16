@@ -1,7 +1,7 @@
 # PyTorch Text-to-Image Diffusion with MNIST
-Demos on Youtube: 
-https://youtu.be/ILq5gP-RLis
-https://youtu.be/A8Pkf4d6Q9o
+-Demos on Youtube: 
+-https://youtu.be/ILq5gP-RLis
+-https://youtu.be/A8Pkf4d6Q9o
 ![Image_20250416133026](https://github.com/user-attachments/assets/676f51f6-c2a5-41d7-9d5f-974a83857eb1)
 ![samples_8](https://github.com/user-attachments/assets/aab556f7-3763-4b37-98fb-1983c8900db3)
 
